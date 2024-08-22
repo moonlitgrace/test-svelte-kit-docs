@@ -6,3 +6,4 @@ export const prerender = true;
 export function load() {
   throw redirect(307, '/docs/get-started/introduction');
 }
+
