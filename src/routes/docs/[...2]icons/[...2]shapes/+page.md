@@ -1,6 +1,6 @@
 ---
-title: Page Title
-description: Page description.
+title: Shapes
+description: Shape icons
 ---
 
 # {$frontmatter.title}
